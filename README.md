@@ -8,7 +8,7 @@ sudo apt install -y bison build-essential g++-multilib git make python zip openj
 ## How-to clone source and device tree:
 
 ```
-mkdir -p ~/twrp && cd ~/twrp
+mkdir -p ~/shrp && cd ~/shrp
 ```
 ```
 repo init -u git://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git -b android-9.0
