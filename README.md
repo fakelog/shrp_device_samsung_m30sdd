@@ -24,4 +24,4 @@ git clone https://github.com/fakelog/shrp_device_samsung_m30sdd.git device/samsu
 ```
 export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch omni_m30sdd-eng; mka recoveryimage
 ```
-Сompilation result is in ```twrp/out/target/product/m30sdd```
+Сompilation result is in ```shrp/out/target/product/m30sdd```
